@@ -105,7 +105,7 @@ nav.navbar a.navbar-brand {
   
 }
 .me-auto{
-  margin-left: 290px;
+  margin-left: 300px;
 }
 nav.navbar .navbar-nav .nav-link.navbar-link {
   font-weight: 400;
@@ -129,7 +129,7 @@ span.navbar-text {
 }
 .social-icon {
     display: inline-block;
-    margin-left: 14px;
+    margin-left: 10px;
 }
 .social-icon a {
     width: 42px;
