@@ -53,8 +53,8 @@ export const Banner=()=>{
     <Row className="align-items-center">
         <Col xs={12} md={6} xl={7}>
             <span className="tagline" > Welcome To My Portfile</span>
-            <h1>{`Hi! I'm Menna Mohamed`} <span className="wrap"> {text} </span></h1>
-            <p>Hello Everyone.I have Three years of Experience in Web Development </p>
+            <h1>{`Hi! I'm Rawan Ahmed`} <span className="wrap"> {text} </span></h1>
+            <p>Hello Everyone.I have Two years of Experience in Web Development </p>
        <button onClick={()=>console.log('connect')}> Let's To connect <ArrowRightCircle size={24}/></button>
         </Col>
         <Col xs={12} md={6} xl={5}>

@@ -32,11 +32,12 @@ export const Skills =()=>{
         <section className="skill" id="skills">
 
             <Container>
-                <Row>
+            <Row>
                     <Col>
                     <div className="skill-bx">
                         <h2>Skills </h2>
-                        <p>Hello, I am Menna Mohamed Abdel-Fattah, from Beni Suef, under graduation. I have 3 years of experience in web development, and I also have experience in the field of software.</p>
+                        <p>Hello, I am Rawan Ahmed Abd-Elaziz, from Beni-Suef, Fresh Graduated.
+                           I have 2 years of experience in web development, and I also have experience in the field of User Interface Design.</p>
                    <Carousel responsive={responsive} infinite ={true} className="skill-slider">
                     <div className="item">
                         <img src={meter1} alt="img"/>
@@ -44,15 +45,15 @@ export const Skills =()=>{
                     </div>
                     <div className="item">
                         <img src={meter2} alt="img"/>
-                        <h5>Machin Learning</h5>
+                        <h5>User Interface</h5>
                     </div>
                     <div className="item">
                         <img src={meter3} alt="img"/>
-                        <h5>Django</h5>
+                        <h5>Python</h5>
                     </div>
                     <div className="item">
                         <img src={meter1} alt="img"/>
-                        <h5>Asp.net</h5>
+                        <h5>SQL</h5>
                     </div>
                    </Carousel>
                     </div>

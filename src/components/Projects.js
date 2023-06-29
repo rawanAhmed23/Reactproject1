@@ -49,7 +49,7 @@ export const Projects = () => {
            
             
                 <h2>Projects</h2>
-                <p>Hi! i'm Menna Mohamed Abdelfatah , from Beni-seuf, Front-End Developer</p>
+                <p>Hello, I am Rawan Ahmed Abd-Elaziz, from Beni-Suef, Front-End Developer.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
@@ -78,10 +78,10 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="second">
-                      <p>Hello Everyone.I have Three years of Experience in Web Development I'm ready for any work from remotly</p>
+                      <p>Hello Everyone.I have Two years of Experience in Web Development I'm ready for any work from remotly</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Hi! i'm Menna Mohamed Abdelfatah , from Beni-seuf, Front-End Developer</p>
+                      <p>Hello, I am Rawan Ahmed Abd-Elaziz, from Beni-Suef, Front-End Developer.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
